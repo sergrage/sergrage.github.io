@@ -1,0 +1,8 @@
+.highlight {
+    background: rgba(0,0,0,0.1) !important;
+}
+
+.upload:hover {
+    background: rgba(0,0,0,0.1) !important;
+    transition: all .3s !important;
+}
